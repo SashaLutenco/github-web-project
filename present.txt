@@ -1,1 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Present</title>
+</head>
+<style>
+    body {
+        background-image: url(https://cdn.pixabay.com/photo/2017/06/21/07/33/background-2426328_960_720.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    .container {
+        text-align: center;
+        border: 1px solid rgb(39, 56, 75);
+        margin: 0 auto;
+        width: 60%;
+    }
+    nav {
+        text-align: center;
+    }
+    div {
+        text-align: center;
+      
+        margin: auto;
+    }
 
+</style>
+<body>
+    <di class= "container">
+        <h1 style="color: whitesmoke;">Present</h1>
+        <p style="color: rgb(8, 219, 103);"> CSS3 is the current version for CSS. There are speculations of CSS4 being in development, but as of 2020 CSS3 is still in effect.
+            These are some of the new features that have been added onto CSS3:</p>
+        <p style="color: rgb(8, 219, 103);";>grid-gap, column, custom-properties, box-alignment, @supports, scroll-snap, clip-path, mask, vw, vh, vmax, vmin, min-height: 100vh, caret-color:orange, ch units, CSS Angles - deg(), grad(), rad(), turn(), Conic (cone) Gradients</p>
+        <p style="color: rgb(8, 219, 103);">CSS3 has made plenty of alterations, so to save time I'll focus primarily on colors. CSS3 has added onto RGBA, added colors, gradients, changes in opacity, shadows. It added rounded borders, and the list goes on and on.
+        </p>
+    </di>
+      <div>
+          <p style="color:whitesmoke;">Links:</p>
+        <nav>
+            <ul>
+              <li style="color: rgb(10, 10, 190);"><a href="https://dev.to/wilsmex/css-in-2020-a-practical-guide-2p6g" style="color: white;">https://dev.to/wilsmex/css-in-2020-a-practical-guide-2p6g</a></li>
+            </ul>
+        </nav> 
+        <nav>
+            <ul>
+              <li style="color: rgb(10, 10, 190);"><a href="https://medium.com/beginners-guide-to-mobile-web-development/whats-new-in-css-3-dcd7fa6122e1" style="color: white;">https://medium.com/beginners-guide-to-mobile-web-development/whats-new-in-css-3-dcd7fa6122e1</a></li>
+            </ul>
+        </nav> 
+    </div>
+</body>
